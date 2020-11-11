@@ -1,4 +1,5 @@
- /**
+//Day 2 November 
+/**
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
